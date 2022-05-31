@@ -27,6 +27,9 @@ img {
   z-index: 0;
   top: 220px;
 }
+#wheelbarrow-foreground + img[alt="Kitty 5"]{
+
+}
 #wheelbarrow-foreground {
   pointer-events: none;
   position: absolute;
